@@ -1,0 +1,7 @@
+D:\CNTT 17-03\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe.config
+D:\CNTT 17-03\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe
+D:\CNTT 17-03\Lab1.3\Lab1.3\bin\Debug\Lab1.3.pdb
+D:\CNTT 17-03\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.AssemblyReference.cache
+D:\CNTT 17-03\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.CoreCompileInputs.cache
+D:\CNTT 17-03\Lab1.3\Lab1.3\obj\Debug\Lab1.3.exe
+D:\CNTT 17-03\Lab1.3\Lab1.3\obj\Debug\Lab1.3.pdb
