@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2>Edit Task</h2>
+
+<form method="post" asp-controller="Todo" asp-action="Edit">
+    <input type="hidden" name="id" value="1" />
+    <div class="form-group">
+        <label for="task">Task Name:</label>
+        <input type="text" class="form-control" id="task" name="task" value="@ViewBag.Task" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Update Task</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info mt-3">@ViewBag.Message</div>
+}
